@@ -1,0 +1,23 @@
+The world’s oceans provide food and livelihoods for billions of people, not to mention two-thirds of our oxygen supply. However, humanity has pushed this fragile resource to the breaking point—and restoring it will take nothing less than groundbreaking innovation. That’s where Cognizant and Tidal come in.  
+
+You may have seen the recent announcement: Cognizant is embarking on a new partnership with Tidal, a Google X project dedicated to protecting the ocean and preserving its ability to sustain life. This joint venture will also help redefine the Blue Economy, which encompasses four economic sectors related to oceans, seas, and coasts: Blue Food, Blue Energy, Blue Transportation and Blue Carbon.  
+
+To better serve these ocean-based industries, we’ve created a new business unit called Cognizant® Ocean. Led by Stig Martin Fiska, the Ocean team will work with Tidal to develop solutions that help our clients achieve a more sustainable and profitable future.  
+
+The opportunity is significant—according to the World Bank, ocean industries contribute about $1.5 trillion to the annual global economy.  Many of these organizations are starting to accelerate their IT adoption and seeking a partner to help them digitize their operations. While it’s a new revenue stream for Cognizant, it’s also a promising one.    
+
+“This is an area that the tech sector hasn’t been very close to,” Stig Martin explained. “These industries are really opening their arms to us and saying, ‘Finally someone wants to understand our problems and not just sell us some generic software.’”  
+
+One of the biggest barriers to protecting our oceans is that we simply don’t know much about what’s going on under the water. The pressure is crushing, communication is difficult (GPS and WiFi don’t work underwater!), and saltwater kills electronics, which makes long-term monitoring challenging.  
+
+To overcome these issues, Tidal developed an advanced underwater camera and machine perception tools that can withstand harsh ocean environments. In a pilot program based in Norway, the system is being used to interpret fish behaviors and collect environmental information like water temperature. The resulting data will help fish farmers make smarter decisions about how to manage their sea pens, which can help reduce both costs and pollution.  
+As Tidal’s partner, we’re helping roll out the system on a global scale and developing new uses based on the technology. For instance, the same tech that’s used in aquaculture could also be used for deep-sea installations like wind farms. “By repurposing or even rebuilding the sensing devices, we can better understand deep sea habitats so that when an installation goes in, we’re not harming their environment,” Stig Martin said.   
+
+Cognizant Ocean and Tidal teams are also starting to explore ways to improve the health of the world’s water supply. With over two billion people lacking access to clean drinking water, it’s a problem in dire need of a solution. “Climate change isn’t just threatening our oceans,” pointed out Stig Martin. "So we’re looking at some novel ideas to clean up our rivers, lakes and reservoirs as well.”  
+
+For Stig Martin, the work is personal. Growing up in Norway where much of the country’s population is settled on the coastline, he witnessed how much the ocean impacts both the culture and the economy in his community.  
+
+“The ocean is a huge part of our heritage,” he explained. “Shipping has been here since the 1600s, aquaculture was created here, and blue energy is a big driver for our economy. Still, working with Tidal has been a big eye-opener for me. I had no idea just how much the ocean sustains our life and humanity, so being able to work on something that has a real impact is very inspiring.”  
+
+Read more here. 
+
