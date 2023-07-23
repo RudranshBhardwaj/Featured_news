@@ -106,7 +106,7 @@
 Sign in to your account
 !...........UserDetails.............!
 Bhardwaj, Rudransh (Contractor)
-2266635@cognizant.com
+
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  _
 Be.Cognizant - Home
