@@ -6,15 +6,8 @@
 
 ## Team Members
 
-	1.Rudransh Bhardwaj(2266635)
+	1.Rudransh Bhardwaj
 
-	2.Santoshi Pande (2266636)
-
-	3.Joshi Savaram(2266835)
-
-	4.Rajkiran Penumallu(2266526)
-
-	5.Anand Prabhu(2266538)
 
 ## Objective
 	To obtain all of the most recent news items currently accessible on the Be.Cognizant website.
